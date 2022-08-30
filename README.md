@@ -1,7 +1,5 @@
 # Meson Network Nedir
 
-*
-
 <figure><img src="https://pz-hzaeny.meson.network/wp-content/uploads/2022/08/meson-center.b4d0c9b7.png" alt=""><figcaption></figcaption></figure>
 
 Meson Network; geleneksel iş gücüne dayalı satış modellerinin yerine, bir blok zinciri protokol modeli kullanarak, uzun kuyruk ekonomisi\* kullanıcılarından boşta kalan bant genişliğini düşük bir maliyetle birleştirerek ve bunlardan para kazanarak, Web3 üzerinde verimli bir bant genişliği pazarı yaratmaya kendini adamıştır. Meson Network, merkezi olmayan depolama, hesaplama ve ortaya çıkmakta olan Web3 Dapp ekosistemi için veri aktarımının temelidir.
