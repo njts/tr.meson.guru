@@ -7,4 +7,6 @@
 * [Madencilik & Ödüller](madencilik-and-oedueller/README.md)
   * [Meson Node Çalıştırma 101](madencilik-and-oedueller/meson-node-calistirma-101.md)
   * [Meson ARM nodeu çalışırmak](madencilik-and-oedueller/meson-arm-nodeu-calisirmak.md)
-* [Meson Network Kullanımı](meson-network-kullanimi.md)
+* [Meson Network Kullanımı](meson-network-kullanimi/README.md)
+  * [Meson Arweave'i geliştirir](meson-network-kullanimi/meson-arweavei-gelistirir.md)
+  * [Meson WordPressi Geliştirir](meson-network-kullanimi/meson-wordpressi-gelistirir.md)
