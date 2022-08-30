@@ -7,3 +7,4 @@
 * [Madencilik & Ödüller](madencilik-and-oedueller/README.md)
   * [Meson Node Çalıştırma 101](madencilik-and-oedueller/meson-node-calistirma-101.md)
   * [Meson ARM nodeu çalışırmak](madencilik-and-oedueller/meson-arm-nodeu-calisirmak.md)
+* [Meson Network Kullanımı](meson-network-kullanimi.md)
