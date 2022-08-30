@@ -10,3 +10,4 @@
 * [Meson Network Kullanımı](meson-network-kullanimi/README.md)
   * [Meson Arweave'i geliştirir](meson-network-kullanimi/meson-arweavei-gelistirir.md)
   * [Meson WordPressi Geliştirir](meson-network-kullanimi/meson-wordpressi-gelistirir.md)
+  * [Meson Jamstacki geliştirir](meson-network-kullanimi/meson-jamstacki-gelistirir.md)
