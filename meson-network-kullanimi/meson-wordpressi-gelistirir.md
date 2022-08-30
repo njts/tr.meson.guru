@@ -1,6 +1,6 @@
 # Meson WordPressi Geliştirir
 
-#### Meson, WordPress'i geliştirir
+### Meson, WordPress'i geliştirir
 
 Web2.0 çağındaki en popüler blog sistemi olan WordPress, büyük bir geliştirici kullanıcı tabanına sahiptir ve ayrıca bu insanlar arasında Arweave ve IPFS gibi Web3.0 uygulamalarının birçok heveslisi vardır. Bu nedenle, Meson Network tarafından yayınlanan WordPress eklentisi DCDN Engine, WordPress'teki geliştiricilerin Web3.0'dan DCDN hızlandırılmış ağı hızlı bir şekilde deneyimlemelerine yardımcı olur.
 

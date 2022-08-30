@@ -1,6 +1,6 @@
 # Meson Jamstacki geliştirir
 
-#### Meson Jamstack'ı geliştirir
+### Meson Jamstack'ı geliştirir
 
 Jamstack, web deneyimi katmanını veri ve iş mantığından ayıran, esnekliği, ölçeklenebilirliği, performansı ve sürdürülebilirliği geliştiren bir mimari yaklaşımdır.
 
