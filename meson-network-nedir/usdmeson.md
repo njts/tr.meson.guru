@@ -34,6 +34,8 @@ Meson, Token sahiplerinin protokolün parametrelerinin geliştirilmesi veya değ
 •Ortaklar: 6.000.000 Meson (%6)\
 •Test-Ağı Gönderimi: 1.000.000 Meson (%1)
 
+<figure><img src="https://docs.meson.network/assets/meson-token-metrics.e27a11f1.png" alt=""><figcaption></figcaption></figure>
+
 ### _Token kilit açma planı_
 
 •Halka Açık Turda satılan jetonların %10’u doğrudan dolaşımdadır.
@@ -47,6 +49,8 @@ Meson, Token sahiplerinin protokolün parametrelerinin geliştirilmesi veya değ
 •Özel Turda satılan tokenlerin kilidi, MainNet’in yayınlanmasından sonra 12 ay boyunca aylık olarak doğrusal şekilde açılacaktır.
 
 •Test Ağı Tokenleri, MainNet’teki tüm tokenlerin %1’i ile eşleştirilecek ve MainNet yayına girdikten sonra doğrudan dolaşıma girecek.
+
+<figure><img src="https://docs.meson.network/assets/meson-supply-curve.daf33acb.png" alt=""><figcaption></figcaption></figure>
 
 ### _Token işlevleri_
 
@@ -62,9 +66,13 @@ Meson, Token sahiplerinin protokolün parametrelerinin geliştirilmesi veya değ
 
 Tüm token enflasyonu madencilik ödüllerinden gelir. İlk yıl madencilik enflasyon oranı %5’tir. Enflasyon oranı her yıl %0,5 düşer.
 
+<figure><img src="https://docs.meson.network/assets/inflation-rate-vs-time.6dbc9ca7.png" alt=""><figcaption></figcaption></figure>
+
 ### _Token dolaşımı_
 
 Madenciler meson.network’a boşta olan bir sunucu sağlarken ödül olarak meson tokenleri alacaklar.Madenciler, yalnızca meson tokenlerini buna göre stake ederlerse tam madencilik hızına ulaşacaklar. Müşteriler meson hizmetini kullanırken meson.network’a ödeme gönderir. Tüm meson jetonları CEX veya DEX’te değiştirilebilir.
+
+<figure><img src="https://docs.meson.network/assets/meson-token-circulation.343375c8.png" alt=""><figcaption></figcaption></figure>
 
 ### _Test ağı token kontratı (MSNTT)_
 
