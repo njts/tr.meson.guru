@@ -4,7 +4,7 @@
 
 Jamstack, web deneyimi katmanını veri ve iş mantığından ayıran, esnekliği, ölçeklenebilirliği, performansı ve sürdürülebilirliği geliştiren bir mimari yaklaşımdır.
 
-#### Next.js
+### **Next.js**
 
 Bir CDN kurmak için bir varlık öneki ayarlayabilir ve CDN'nizin kaynağını Next.js'nin barındırıldığı domain'e çözümleyecek şekilde yapılandırabilirsiniz.
 
@@ -18,7 +18,7 @@ Next.js, /\_next/ sekmesinden (.next/static/ folder) yüklediği JavaScript ve C
 
 [Dosya öneki CDN desteği - Next.js Dokümantasyon](https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix)
 
-#### Gatsby
+### Gatsby
 
 gatsby-config.js'ye ekleme
 
@@ -36,7 +36,7 @@ _Oluşum için ön eki etkinleştirmek_
 
 [Dosya Öneki Ekleme - Gatsby Dokümantasyon](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/asset-prefix/)
 
-#### Webpack
+### Webpack
 
 `output: {     publicPath: "https://pz-xxxxxx.meson.network/[fullhash]/",   },`
 
