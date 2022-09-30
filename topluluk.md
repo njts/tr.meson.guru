@@ -197,7 +197,7 @@
 
 #### Sam Williams
 
-Çılgınca. [@Solona](https://twitter.com/solana?ref\_src=twsrc%5Etfw) NFT ape'leri tüm gücüyle! 12 saat içinde ![](https://t.co/3S12ndZ16m) 'ye 4x trafik artışı. ![](https://t.co/cXAcsN7S3I) biz konuşurken hala büyüyor ancak unutmayın ki: Permaweb verilerine düzgün bir şekilde merkezi olmayan ve hızlı erişim elde etmek için [@NetworkMeson](https://twitter.com/NetworkMeson?ref\_src=twsrc%5Etfw) ve [@Media\_FDN](https://twitter.com/Media\_FDN?ref\_src=twsrc%5Etfw) gibi dCDN'leri entegre edin. pic.twitter.com/IMIpQQjQiW
+Çılgınca. [@Solona](https://twitter.com/solana?ref\_src=twsrc%5Etfw) NFT ape'leri tüm gücüyle! 12 saat içinde ![](https://t.co/3S12ndZ16m) 'ye 4x trafik artışı. ![](https://t.co/cXAcsN7S3I) biz konuşurken hala büyüyor ancak unutmayın ki: Permaweb verilerine düzgün bir şekilde merkezi olmayan ve hızlı erişim elde etmek için [@NetworkMeson](https://twitter.com/NetworkMeson?ref\_src=twsrc%5Etfw) ve \[@Media\_FDN] (https://twitter.com/Media\_FDN?ref\_src=twsrc%5Etfw) gibi dCDN'leri entegre edin. pic.twitter.com/IMIpQQjQiW
 
 — 🐘 🔗 sam.arweave.dev (@samecwilliams) [30 Ağustos, 2021](https://twitter.com/samecwilliams/status/1432452769785462797?ref\_src=twsrc%5Etfw)
 
