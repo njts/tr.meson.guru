@@ -1,6 +1,4 @@
-# Soru / Cevap
-
-#### 🌱 FAQ
+# 🌱 FAQ
 
 #### Meson Network nedir?
 

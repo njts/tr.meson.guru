@@ -1,6 +1,4 @@
-# Açık kaynak
-
-#### 🌀Open source
+# 🌀Açık kaynak
 
 Meson Network neredeyse tamamen açık kaynak kodu üzerine kurulmuştur. Ve topluluğu, Ağın tüm bölümlerini geliştirmeye ve katkıda bulunmaya aktif olarak teşvik ediyoruz. Tam liste, resmi [Meson Network GitHub Organizasyonunda](https://github.com/daqnext/) bulunabilir.
 

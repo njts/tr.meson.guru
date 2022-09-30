@@ -1,6 +1,4 @@
-# Sözlük
-
-#### 🧱 Sözlük
+# 🧱 Sözlük
 
 #### Bant Genişliği
 

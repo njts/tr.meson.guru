@@ -1,6 +1,4 @@
-# Topluluk
-
-#### 👾Topluluk
+# 👾Topluluk
 
 #### Etkinlikler
 

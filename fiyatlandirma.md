@@ -1,6 +1,4 @@
-# Fiyatlandırma
-
-#### 🌍Fiyatlandırma
+# 🌍Fiyatlandırma
 
 #### Meson 3.0
 
