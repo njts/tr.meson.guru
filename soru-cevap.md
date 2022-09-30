@@ -125,36 +125,29 @@ Sistem yeniden başlatıldıktan sonra getenforce komutu Permissive'e döner:
 
 Bir dizi port açmak için aşağıdaki komutu verin.
 
-````
-sudo ufw allow 60000:61000/udp```
+`sudo ufw allow 60000:61000/tcp sudo ufw allow 60000:61000/udp`
 
 Uncomplicated Firewall (UFW)'ı durdurmak veya başlatmak için aşağıdaki komutu verin.
-
 
 `sudo ufw disable`
 
 `sudo ufw enable`
 
-- ![How To Set Up a Firewall with UFW on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04)
-- ![Examples of how to open firewall ports](https://www.ibm.com/docs/es/spectrum-scale/5.1.0?topic=firewall-examples-how-open-ports)
+* [How To Set Up a Firewall with UFW on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04)
+* [Examples of how to open firewall ports](https://www.ibm.com/docs/es/spectrum-scale/5.1.0?topic=firewall-examples-how-open-ports)
 
-### Router'ınızdaki Portlar Nasıl Yönlendirilir?
+#### Router'ınızdaki Portlar Nasıl Yönlendirilir?
 
 Bu adım, kendi kişisel bilgisayarınızın Meson'u çalıştırması için önemlidir.
 
 Arama yapabilirsiniz ——
 
-"Port Yönlendirme" + [Router Markanız] YouTube/Google/vb'de
+"Port Yönlendirme" + \[Router Markanız] YouTube/Google/vb'de
 
 Bu, yapılandırmayı Router'ınıza bu IP'nin PC'nize bağlı olduğunu söyleyecek şekilde değiştirmek içindir, böylece Meson, yönlendiriciniz aracılığıyla cihazınızı (sunucu) bulabilir.
 
 Referanslar:
-![](https://en.wikipedia.org/wiki/Network_address_translation)
 
-![](https://youtu.be/2G1ueMDgwxw)
+[https://en.wikipedia.org/wiki/Network\_address\_translation](https://en.wikipedia.org/wiki/Network\_address\_translation)
 
-
-
-
-
-````
+[https://youtu.be/2G1ueMDgwxw](https://youtu.be/2G1ueMDgwxw)

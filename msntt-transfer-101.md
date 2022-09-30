@@ -18,11 +18,11 @@ Transfer token from Meson2.5'e tıklayın ve Token Transfer işlemlerini gerçek
 
 Meson2.5'in Email'ini gerekli olarak, UserName'i (kullanıcı adı) ve PhoneNumber 'ı (telefon numarası) ise isteğe bağlı sağlamanız gereklidir. Ne kadar eksiksiz olursa incelemeyi o kadar hızlı geçer.
 
-🔎 Bir sorunuz mu var? ![Meson Discord Sunucusu](https://discord.com/invite/z6YfSHDkmS) 'nun 💻deploy-mining-questions kanalında core@ geliştiricilerle doğrudan iletişim kurabilirsiniz.
+🔎 Bir sorunuz mu var? [Meson Discord Sunucusu](https://discord.com/invite/z6YfSHDkmS) 'nun 💻deploy-mining-questions kanalında core geliştiricilerle doğrudan iletişim kurabilirsiniz.
 
 ![](https://docs.meson.network/assets/msntt-transfer-101-02.c7f61c1e.png)
 
-**İPUCU** @bu kismi sor!!!turkce mi yazim ingilizce ki diye@
+**İPUCU**
 
 * **User does not exist in Meson 2.5**: E-posta hatası
 * **This Email has already been transferred**: Başvuru başarıyla tamamlandı fakat henüz incelemeden geçmedi.
