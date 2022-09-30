@@ -77,7 +77,7 @@ Permaweb, geleneksel web ile paraleldir, ancak içerik kalıcıdır ve güç din
 
 The InterPlanetary File System (IPFS), verileri dağıtılmış bir dosya sisteminde depolamak ve paylaşmak için bir protokol ve uçtan uca ağdır. IPFS, tüm bilgi işlem cihazlarını birbirine bağlayan global namespace'teki her dosyayı benzersiz bir şekilde tanımlamak için içerik adreslemeyi kullanır.
 
-\###Filecoin
+#### Filecoin
 
 Filecoin, dosyaların zaman içinde güvenilir bir şekilde saklanmasını sağlamak için yerleşik ekonomik teşviklerle dosyaları depolayan uçtan uca bir ağdır.
 

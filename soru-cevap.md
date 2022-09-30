@@ -101,9 +101,25 @@ SELinux üç moddan birinde çalışabilir: enforcing, permissive ya da disabled
 
 `vi /etc/selinux/config`
 
-SELINUX=permissive seçeneğini yapılandırın.
+```
+`SELINUX=permissive`seçeneğini yapılandırın.
+```
 
-`# This file controls the state of SELinux on the system.# SELINUX= can take one of these three values:# enforcing - SELinux security policy is enforced.# permissive - SELinux prints warnings instead of enforcing. # disabled - No SELinux policy is loaded. SELINUX=permissive # SELINUXTYPE= can take one of these two values: # targeted - Targeted processes are protected, # mls - Multi Level Security protection. SELINUXTYPE=targeted`
+``
+
+```
+# This file controls the state of SELinux on the system.
+# SELINUX= can take one of these three values:
+#       enforcing - SELinux security policy is enforced.
+#       permissive - SELinux prints warnings instead of enforcing.
+#       disabled - No SELinux policy is loaded.
+SELINUX=permissive
+# SELINUXTYPE= can take one of these two values:
+#       targeted - Targeted processes are protected,
+#       mls - Multi Level Security protection.
+SELINUXTYPE=targeted
+
+```
 
 Sistemi yeniden başlatın.
 
@@ -125,7 +141,9 @@ Sistem yeniden başlatıldıktan sonra getenforce komutu Permissive'e döner:
 
 Bir dizi port açmak için aşağıdaki komutu verin.
 
-`sudo ufw allow 60000:61000/tcp sudo ufw allow 60000:61000/udp`
+`sudo ufw allow 60000:61000/tcp`&#x20;
+
+`sudo ufw allow 60000:61000/udp`
 
 Uncomplicated Firewall (UFW)'ı durdurmak veya başlatmak için aşağıdaki komutu verin.
 
